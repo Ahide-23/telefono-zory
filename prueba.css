@@ -1,0 +1,32 @@
+
+.datos_titulos_items {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFF;
+	text-align:left;
+	padding-left:5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	height:10;
+	background-color:#036;
+}
+
+
+.datos_producto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	color:#066;
+	text-align:left;
+	padding-top:5px;
+	padding-left:5px;
+}
+.texCelda {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:normal;
+	color:#333;
+	text-align:left;
+	padding-top:5px;
+}
